@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GCluster/.idea/GCluster.iml" filepath="$PROJECT_DIR$/../GCluster/.idea/GCluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GisClusterer.iml" filepath="$PROJECT_DIR$/.idea/GisClusterer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MD/.idea/MD.iml" filepath="$PROJECT_DIR$/../MD/.idea/MD.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/cad_export/.idea/cad_export.iml" filepath="$USER_HOME$/Documents/cad_export/.idea/cad_export.iml" />
+    </modules>
+  </component>
+</project>
